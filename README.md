@@ -14,9 +14,11 @@
 
 **A retro-futuristic file transfer utility inspired by the computers from the film "Alien"**
 
+![Screenshot of the Nostromo File Transfer System](NOSTROMO-MU-TH-UR-6000-FILE-SYSTEM-ezgif.com-video-to-gif-converter.gif)
+
+
 </div>
 
-![Screenshot of the Nostromo File Transfer System](screenshot.jpg)
 
 ## OVERVIEW
 
